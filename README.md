@@ -1,6 +1,6 @@
-# Coffee Machine Accessories Calculator
+# Coffee Components Calculator
 
-This project calculates the required coffee machine components based on the orders.
+This project calculates the required coffee ingredients based on the orders.
 
 The following table shows the ingredients for each type of coffee specialty.
 
